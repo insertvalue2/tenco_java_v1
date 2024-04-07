@@ -1,4 +1,4 @@
-package useful.ex03;
+package useful.ex02;
 
 public class StringTest {
 

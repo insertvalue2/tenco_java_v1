@@ -1,4 +1,4 @@
-package useful.ex02;
+package useful.ex01;
 
 class EBook {
 	
